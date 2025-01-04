@@ -1,64 +1,18 @@
-👋 Hi, I'm Asry!
+# 💫 About Me:
+ Hi, I'm Asry!<br>🎓 Undergraduate | 🚀 Passionate Problem Solver | 💻 Real-World Solutions Developer<br>🏫 Education: Currently pursuing a BSc Hons in Information Technology with a 4.0 GPA at the University of Moratuwa, Sri Lanka's leading technical university.<br><br>🛠 Expertise: Skilled in IoT, Web Development, MERN Stack, and Database Management.<br><br>🌱 Learning Focus: Diving deeper into Full-Stack Development, Machine Learning, and cutting-edge technologies.<br><br>💡 Passion: Building innovative projects that simplify life and solve human-centric issues.<br><br>🎯 Goal: To leave a positive mark on the world through technology and creativity.<br>💼 Projects<br>I love working on projects that challenge me and add value to the world. Here's a glimpse of some of my notable work:<br><br>Tic-Tac-Tech: An innovative sensor-based Tic-Tac-Toe game combining IoT, AI, and interactive design.<br>Comprehensive Garage Management System: A robust MERN stack application to streamline garage operations and enhance customer experiences.<br>SQL Data Science Project: Data-driven insights using SQLite and USDA datasets.<br>Check out my repositories for more projects!<br><br>🌐 Skills<br><br>Programming: JavaScript, Python, C/C++, PHP.<br>Frameworks: React, Express.js, Node.js.<br>Tools: Git, Firebase, SQL, MongoDB, Arduino IDE.<br>Soft Skills: Leadership, Teamwork, and Problem-Solving.<br><br>🛠 How I Work<br><br>I believe in delivering clean, scalable, and maintainable code while following industry best practices. I enjoy collaborating with diverse teams and continuously strive to expand my knowledge and skills.<br><br>💬 Let's Connect<br><br>I'm always excited to explore new opportunities and collaborations! Feel free to reach out to me:<br><br>📧 Email: asryamaz000@gmail.com<br><br>🌐 LinkedIn: https://www.linkedin.com/in/mohamed-asry-402a4b241/<br><br>💻 Portfolio: https://asry18.github.io/portfolio22/
 
-🎓 Undergraduate | 🚀 Passionate Problem Solver | 💻 Real-World Solutions Developer
 
-Welcome to my GitHub profile! I'm Asry, a tech enthusiast and aspiring software developer, driven by the desire to create impactful solutions that address real-world challenges.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-asry-402a4b241/) 
 
-🌟 About Me
-🏫 Education: Currently pursuing a BSc Hons in Information Technology with a 4.0 GPA at the University of Moratuwa, Sri Lanka's leading technical university.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asry18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asry18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asry18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🛠 Expertise: Skilled in IoT, Web Development, MERN Stack, and Database Management.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🌱 Learning Focus: Diving deeper into Full-Stack Development, Machine Learning, and cutting-edge technologies.
-
-💡 Passion: Building innovative projects that simplify life and solve human-centric issues.
-
-🎯 Goal: To leave a positive mark on the world through technology and creativity.
-
-<!--🏆 Achievements
-🥇 4th Place in a National-Level Coding Competition. -->
-🚀 Participated in numerous hackathons, ideathons, and team projects, refining my skills and teamwork.
-<!--📖 Completed multiple certifications in SQL, Git, Linear Algebra for Machine Learning, and more.-->
-💼 Projects
-I love working on projects that challenge me and add value to the world. Here's a glimpse of some of my notable work:
-
-Tic-Tac-Tech: An innovative sensor-based Tic-Tac-Toe game combining IoT, AI, and interactive design.
-Comprehensive Garage Management System: A robust MERN stack application to streamline garage operations and enhance customer experiences.
-SQL Data Science Project: Data-driven insights using SQLite and USDA datasets.
-Check out my repositories for more projects!
-
-🌐 Skills
-
-Programming: JavaScript, Python, C/C++, PHP.
-Frameworks: React, Express.js, Node.js.
-Tools: Git, Firebase, SQL, MongoDB, Arduino IDE.
-Soft Skills: Leadership, Teamwork, and Problem-Solving.
-
-🛠 How I Work
-
-I believe in delivering clean, scalable, and maintainable code while following industry best practices. I enjoy collaborating with diverse teams and continuously strive to expand my knowledge and skills.
-
-💬 Let's Connect
-
-I'm always excited to explore new opportunities and collaborations! Feel free to reach out to me:
-
-📧 Email: asryamaz000@gmail.com
-
-🌐 LinkedIn: https://www.linkedin.com/in/mohamed-asry-402a4b241/
-
-💻 Portfolio: https://asry18.github.io/portfolio22/
-
-<!--
-**Asry18/Asry18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
